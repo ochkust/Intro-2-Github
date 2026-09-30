@@ -15,6 +15,8 @@ New INFO Hub Student numbers:
 * according to data from https://infh.hkust-gz.edu.cn/about/fast-facts/ on 2026-09-30
 ```
 
+![INFO Hub new student numbers](/images/graph1.jpg)
+
 ## About
 This repo was created by OCH during [INFH6780](https://hkust-gz.instructure.com/courses/4114) W5 session.
 
